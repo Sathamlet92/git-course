@@ -1,2 +1,2 @@
 # git-course
-This is my firts test git
+This is my first test git
